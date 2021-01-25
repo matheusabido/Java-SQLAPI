@@ -1,2 +1,2 @@
 # Java-SQLAPI
-an sql api for java
+a sql api for java
